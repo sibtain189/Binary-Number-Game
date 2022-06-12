@@ -1,7 +1,7 @@
 # BinaryNumber
  
 # Reebok(Clone)
-Link:  [https://shop4reebok.com/ site](https://cooserandomnumber.netlify.app/)
+Link:  [Number-Game](https://cooserandomnumber.netlify.app/)
 
 *This is a number game where Users can choose a random number between 1-100 and win the game.*
 
